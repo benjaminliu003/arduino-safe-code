@@ -1,0 +1,8 @@
+- Adafruit Fingerprint Sensor Library
+- Blynk
+- BlynkESP8266_Lib
+- Keypad
+- swRTC
+- Time
+- TOTP_library
+- esp8266 (in the boards manager)

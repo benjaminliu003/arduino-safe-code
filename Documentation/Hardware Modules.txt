@@ -1,0 +1,5 @@
+- Arduino Mega 2560
+- NodeMCU 1.0(esp8266)
+- 8 pin membrane keypad
+- Fingerprint Sensor(ZFM-708SA)
+- 5V solenoid
