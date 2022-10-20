@@ -1,7 +1,7 @@
 # Arduino Safe Locking Project
 
 ## Overview
-This is an Arduino project of mine, originally made for school back in early 2020. This readme will cover tha majority of the docuemntation for this project, though a day by day breakdown of the project's development can be found within the **_"Documentation"_** folder of the repository.
+This is an Arduino project of mine, originally made for school back in early 2020. This readme will cover tha majority of the documntation for this project, though a day by day breakdown of the project's development can also be found within the **_"Documentation"_** folder of the repository.
 ### Original Concept
 The gist of the project will be to design an arduino device with a wifi chip and a keypad (the actual lock won’t be incorporated into the design as it is just for demonstrative purposes (simply a solenoid that would retract a bolt). 
 An LCD will also be used to show whether the lock is open or closed, the password you typed in, etc. When a passcode is typed into the lock, a notification (most likely in terms of a text message) will be sent to the phone number of the owner (which will be determined during the lock setup). It will notify the owner of the attempt to open the lock and wait for an input (if it is the correct password) (this will also as a text message, either “accept” or “deny”) effectively a two step authorization process (if the password is incorrect, the owner will simply receive a notification warning of a potential security hazard. ..
